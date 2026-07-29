@@ -10,6 +10,7 @@ I was responsible for the hardware integration, BLE communication setup, signal 
 
 ## 📷 Project Images
 
+![Image of the Project](https://github.com/Sulfikarpk/TRA_robotic_arm_project-/blob/main/robotic_arm_TRA.jpeg)
 
 ---
 
