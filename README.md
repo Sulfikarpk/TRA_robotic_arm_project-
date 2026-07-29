@@ -16,9 +16,13 @@ I was responsible for the hardware integration, BLE communication setup, signal 
 
 ## 🎥 Project Demonstration
 
-**Demo Video:**
+test_vedio1
 
-https://your-video-link.com
+https://youtube.com/shorts/uX3iO0UfIxs?feature=share
+
+final_vedio 
+
+https://youtu.be/4cvtCDuuA7Q
 
 ---
 
@@ -49,6 +53,7 @@ https://your-video-link.com
 
 - Integrated the HM-06 BLE module with the robot control box.
 - Established wireless communication between the tablet and the robotic arm.
+- Robotic_arm programming 
 - Configured the digital input interface for robot command execution.
 - Performed hardware integration, communication testing, and troubleshooting.
 - Supported on-site deployment and system validation for the RTA exhibition.
